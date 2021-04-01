@@ -1,4 +1,3 @@
-//2018008804_LeeGyuYeong_12838
 #include <iostream>
 #include <string>
 #include <queue>
