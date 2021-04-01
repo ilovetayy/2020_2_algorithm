@@ -1,4 +1,3 @@
-//2018008804_¿Ã±‘øµ_12838
 #include <iostream>
 using namespace std;
 
