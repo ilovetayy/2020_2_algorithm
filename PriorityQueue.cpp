@@ -1,4 +1,3 @@
-//2018008804_¿Ã±‘øµ_12838
 #include <stdio.h>
 #include <vector>
 using namespace std;
